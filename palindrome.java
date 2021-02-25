@@ -18,6 +18,6 @@ public class palindrome {
             System.out.println("Do you want to continue? y/n >> ");
                 ch = input.next().charAt(0);
         }
-        System.out.println("You exited the system.");
+        System.out.println("You exited the system. Thank you for using our system");
     }
 }
